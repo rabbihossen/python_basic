@@ -27,5 +27,8 @@ print(5 == 5)
 # 9: Not Equal Check
 print(5 != 3)
 
-#10: Greater Than Check
+# 10: Greater Than Check
 print(7 > 6)
+
+# 11: Less Than Check
+print(2 < 3)
