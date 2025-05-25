@@ -32,3 +32,23 @@ print(7 > 6)
 
 # 11: Less Than Check
 print(2 < 3)
+
+# 12: Greater Than or Equal
+print(4 >= 4)
+
+# 13: Less Than or Equal
+print(5 <= 2)
+
+# 14: Logical AND
+a = 10
+b = 20
+print(a > 5 and b > 15)
+
+# 15: Logical OR
+a = 10
+b = 20
+print(a < 5 or b > 15)
+
+# 16: Logical NOT
+a = 10
+print(not(a > 5))
