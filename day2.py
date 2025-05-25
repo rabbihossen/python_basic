@@ -52,3 +52,26 @@ print(a < 5 or b > 15)
 # 16: Logical NOT
 a = 10
 print(not(a > 5))
+
+# Assignment 
+
+# 17: Assignment +
+x = 5
+x += 3
+print(x)
+
+# 18: Assignment - 
+x = 10
+y = 5
+z = x-y
+print(z)
+
+# 19: Assignment * 
+x = 6
+x *= 2
+print(x)
+
+# 20: Assignment /
+x = 12
+x /= 3
+print(x)
