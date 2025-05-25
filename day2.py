@@ -20,3 +20,6 @@ print(9 // 2)
 
 # 7: Exponentiation
 print(2 ** 3)
+
+# 8: Equal Check
+print(5 == 5)
