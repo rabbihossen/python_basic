@@ -90,3 +90,20 @@ print(x)
 x = 3
 x **= 2
 print(x)
+
+# 24: If Statement
+score = 85
+if score >= 90: print("A")
+
+# 25: If-Else Statement
+age = 17
+if age >= 18:print("Adult")
+else:print("Minor")
+
+# 26: If-Elif-Else
+score = 75
+if score >= 90: print("A")
+elif score >= 70: print("B")
+elif score >= 50: print("C")
+else: print("Fail")
+
