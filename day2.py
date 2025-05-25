@@ -75,3 +75,18 @@ print(x)
 x = 12
 x /= 3
 print(x)
+
+# 21: Assignment %
+x = 10
+x %= 3
+print(x)
+
+# 22: Assignment //
+x = 11
+x //= 2
+print(x)
+
+# 23: Assignment **
+x = 3
+x **= 2
+print(x)
